@@ -28,6 +28,20 @@ Here I found out "smile vector" and added it to latent code of serious people
 
 ## VAE
 Article about Variational autoencoders https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf
+![изображение](https://user-images.githubusercontent.com/79093859/134656867-7c3d13f7-efc6-4dc1-bc01-d705cc4b3d63.png)
+### Sampling
+![изображение](https://user-images.githubusercontent.com/79093859/134656921-71e03cf7-3f09-49c7-b8f5-a55ad7751fe1.png)
+Not enough yet
+### Latent representation
+![изображение](https://user-images.githubusercontent.com/79093859/134657070-7cdf7503-f6fc-4862-a015-a9a344344e77.png)
+There is no obvious clastering, maybe because 2 dimensions is not enough.
 ## CVAE
 ![alt text](https://i.ibb.co/2tsWknB/Screen-Shot-2020-01-15-at-9-02-15-PM.png)
 Conditional VAE is VAE, but input is concatenated with information about its class, so this information is used in latent code and we can easily sample pictures of different classes from one randon vector and we can sample one exact class.
+![изображение](https://user-images.githubusercontent.com/79093859/134657227-0e817de8-e6c9-4f54-9b11-9ac262f8c924.png)
+### Sampling
+![изображение](https://user-images.githubusercontent.com/79093859/134657348-6c50316f-c0ad-4049-8f1b-d8344798d048.png)
+### Latent representation
+![изображение](https://user-images.githubusercontent.com/79093859/134657405-b7cc073c-95c3-4a94-910b-9aac9215d78e.png)
+
+
