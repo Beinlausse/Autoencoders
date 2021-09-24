@@ -3,7 +3,7 @@
 ### Dataset
 We are working with two different datasets, first is labeled faces in the wild, it consists of photos of people and dataframe with its atributes.
 ### AE
-Article about autoencoders https://habr.com/ru/post/331382 
+Good articles about autoencoders https://habr.com/ru/post/331382 
 https://towardsdatascience.com\intuitively-understanding-variational-autoencoders-1bfe67eb5daf
 <img src="https://i.imgur.com/nVJAtMT.png" alt="Autoencoder">
 How autoencoder is designed "inside".
