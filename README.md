@@ -1,7 +1,7 @@
 # Autoencoders
 ## Vanilla autoencoder
 ### Datasets
-We are working with two different datasets, first is Labeled faces in the wild(LFITW), it consists of photos of people and dataframe with its atributes. Another dataset is MNIST - dataset of handwritten numbers. It is used here for VAE and CVAE.
+We are working with two different datasets, first is Labeled faces in the wild(LFW), it consists of photos of people and dataframe with its atributes. Another dataset is MNIST - dataset of handwritten numbers. It is used here for VAE and CVAE.
 ### AE
 Good articles about autoencoders https://habr.com/ru/post/331382 
 https://towardsdatascience.com\intuitively-understanding-variational-autoencoders-1bfe67eb5daf
@@ -14,7 +14,7 @@ Linear autoencoder result
 Convolution autoencoder result
 ![изображение](https://user-images.githubusercontent.com/79093859/134654653-92728da6-f29e-4b5c-b4e2-b306372f8317.png)
 
-I have made two slightly different architectures of AE to compare them, Linear showed better perfomance, that's why I used it in problems, connected with LFITW
+I have made two slightly different architectures of AE to compare them, Linear showed better perfomance, that's why I used it in problems, connected with LFW
 
 ### Sampling
 Sampling from Linear is not that awful, but that's not enough, obviously.
