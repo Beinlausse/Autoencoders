@@ -43,5 +43,12 @@ Conditional VAE is VAE, but input is concatenated with information about its cla
 ![изображение](https://user-images.githubusercontent.com/79093859/134657348-6c50316f-c0ad-4049-8f1b-d8344798d048.png)
 ### Latent representation
 ![изображение](https://user-images.githubusercontent.com/79093859/134657405-b7cc073c-95c3-4a94-910b-9aac9215d78e.png)
+Here we can see some lines of distribution, but different classes can not be distinglished.
 
+## Image Morphing
+![изображение](https://user-images.githubusercontent.com/79093859/134657500-92142ece-1630-4b84-a8c1-1e4f2912e9bc.png)
+That is spectacularly)
 
+## Denoising
+![изображение](https://user-images.githubusercontent.com/79093859/134657558-13a208cb-9c3b-4969-b438-6eb511042759.png)
+Even simple AE works pretty well.
